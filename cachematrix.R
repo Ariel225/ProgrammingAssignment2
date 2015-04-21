@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Not much to see here. I took the original readme file, copied the makeVector and cachemean commands
+## In a text editor, I search-and-replaced for the word "mean" and put in "solve"
+## Then I changed the function names to match the assignment functionnames makeCacheMatrix and cacheSolve
 
 ## Write a short comment describing this function
 
